@@ -15,4 +15,4 @@ function arrayTotal(numbers) {
 }
 
 const total = arrayTotal([30, 40, 60]);
-console.log('array total', total)
+console.log('array total', total);
